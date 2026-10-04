@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+
+experiment/
+*.pth
+
+content_data/
+style_data/
+
+static/uploads/
+
+.env
+.cache/
